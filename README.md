@@ -68,4 +68,8 @@ Key Insights
 - The **overall return rate stood at 23.1%**, contributing to an estimated **150.95K in lost sales value** — a significant chunk of potential revenue.
 - Sales showed a **consistent spike in Q4 every year**, pointing to strong seasonal demand that could be leveraged for targeted campaigns and inventory planning.
 - With an **average order value of $397.08** across **793 unique customers**, the data also revealed clear opportunities to increase order frequency among mid-tier customers.
+<img width="639" height="398" alt="Sales Performance" src="https://github.com/user-attachments/assets/e25bb87a-0c23-4409-a7b4-cc03d175d4a4" />
+<img width="637" height="359" alt="Customer   Profit Analysis" src="https://github.com/user-attachments/assets/8964791a-32c8-4910-b471-ed0724af9e4f" />
+<img width="638" height="357" alt="Return   Profitability Analysis" src="https://github.com/user-attachments/assets/841cad58-0762-4ccc-9f57-74abb080a21b" />
+
 
